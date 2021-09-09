@@ -1,2 +1,2 @@
 # comp_math
-5 semester course on computational mathematics
+5 semester uni course on computational mathematics
