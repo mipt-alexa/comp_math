@@ -1,2 +1,2 @@
-# comp_math
-5 semester uni course on computational mathematics
+# computational_mathematics_course
+5 semester university (MIPT) course on computational mathematics
